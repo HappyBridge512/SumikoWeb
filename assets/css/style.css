@@ -68,6 +68,10 @@ html {
   animation: navAnimOpen 0.2s ease-in-out;
 }
 
+.img-circle {
+  border-radius: 50%;
+}
+
 @keyframes navAnimOpen {
   0% {
     display: none;
